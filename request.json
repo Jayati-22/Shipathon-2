@@ -1,0 +1,18 @@
+{
+  "jsonrpc": "2.0",
+  "id": "1",
+  "method": "message/send",
+  "params": {
+    "context_id": "session-001",
+    "message": {
+      "messageId": "msg-001",
+      "role": "user",
+      "parts": [
+        {
+          "type": "text",
+          "text": "Create a presentation to show the CEO of Disney on the new villains of Spiderman"
+        }
+      ]
+    }
+  }
+}

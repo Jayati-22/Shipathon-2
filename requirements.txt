@@ -1,0 +1,8 @@
+google-genai
+python-pptx
+openpyxl
+pydantic
+openai
+starlette
+uvicorn
+python-dotenv
